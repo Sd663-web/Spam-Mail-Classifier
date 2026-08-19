@@ -140,8 +140,8 @@ Although its name contains "Regression", Logistic Regression is widely used for 
 In this project:
 
 ```text
-Spam     → 1
-Ham      → 0
+Spam     → 0
+Ham      → 1
 ```
 
 The model estimates the probability that a given message belongs to the spam class.
